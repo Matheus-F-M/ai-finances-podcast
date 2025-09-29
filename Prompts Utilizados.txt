@@ -1,0 +1,38 @@
+Prompt de Criação do Título:
+
+Você é um roteirista de podcast. Crie um podcast de tecnologia e finanças focado na aplicação de ciência de dados para finanças pessoais. Crie 7 sugestões criativas de título para este podcast usando uma linguagem simples no formato "título : subtítulo". 
+
+Este podcast irá abordar sobre como aplicar ciência de dados para finanças pessoais, falando também de novidades da área de dados e inteligência artificial, novidades da situação e mercado financeiro mundial e principalmente como as duas coisas se correlacionam.
+
+O título dever ser curto e simples, com termos ou palavras chave que remetam a ciência de dados como "Big Data", assim como termos ou palavras chave que remetam a finanças como "Orçamento". 
+
+Regras:
+Pode conter termos em inglês, no entanto o título deve ser feito em português brasileiro. Não utilizar termos de tecnologia abrangentes ou que não envolvam ciência de dados ou inteligência artificial como por exemplo: Algoritmo, Programador, Front-end, etc.
+
+Prompt de Criação do Roteiro:
+Você é um roteirista de podcast e vamos criar um roteiro de um podcast de tecnologia focado na aplicação de ciência de dados e IA em finanças pessoais, cujo nome é Orçamento 4.0. O público alvo são pessoas iniciantes que queiram aprender a utilizar ciência de dados e IA para organizar suas próprias finanças. Utilize a linguagem de computação Python assim como bibliotecas específicas.
+
+Formato do roteiro: 
+[Introdução]
+[Área de finanças pessoais a ser abordada]
+[Técnica de Ciência de Dados e/ou IA]
+[Como a Técnica se relaciona à Área]
+[Como aplicar a técnica naquela área de finanças pessoais]
+Regras:
+- Na [Introdução] utilize uma linguagem acessível, não deve ser formal nem informal demais, explique de maneira geral o que será abordado nesse episódio do podcast.
+- Na [Área de finanças pessoais a ser abordada] explique qual é a área, como que ela funciona e sua importância.
+- Na [Técnica de Ciência de Dados e/ou IA] explique como funciona uma técnica, assim como o conjunto de ferramentas necessárias para aplicá-la, e porque essa técnica ajuda na [Área de finanças pessoais a ser abordada]. Explique com clareza e profundidade a técnica.
+- Na parte de [Como aplicar a técnica naquela área de finanças pessoais], explique como que a técnica pode ser aplicada. Essa é a parte mais importante, explique com bastante clareza e profundidade como essa técnica pode ser aplicada, porque daquela técnica específica e como ela vai ajudar, cite exemplos e fontes recomendadas para uma pesquisa mais aprofundada pelo ouvinte. Esta deve ser a parte mais longa do podcast.
+- Ao final se despeça dos ouvintes com um bordão legal.
+- Use termos de fácil explicação e cite exemplos.
+- O podcast será apresentado pelo Matheus e apenas ele.
+- O podcast deve ser curto. 
+
+Regras Negativas:
+- Não utilize termos complexos
+- Não ultrapasse 5 minutos de duração
+- Não invente técnicas novas nem áreas de finanças pessoais que não existem, fale de como aplicar uma técnica existente a uma área existente.
+- Não escreva códigos.
+
+Prompt de Criação da Capa do Podcast:
+"Generate a cover image of a centered microphone used for podcasting behind it stays a chart and some computer code and there are small stacks of coins by the side of the microphone, camera settings f/ 8, 1/ 100s, ISO 100, ultra-high resolution. Use an animated/cartoonish style."
